@@ -17,7 +17,7 @@ xApps have extra special permissions, allowing the xApp (web app) to interact wi
 * They can trigger overlay Sign Requests and receive callback info
 * They can trigger the QR scanner and receive scanned QR data
 
-## Opening an xApps
+## Opening an xApp
 
 xApps can be opened (triggered) in lots of ways:
 
